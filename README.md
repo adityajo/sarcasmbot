@@ -27,8 +27,9 @@ The sentiwordlist can be downloaded from: http://www.cs.uic.edu/~liub/FBS/opinio
 > System.out.println(sc.chat("Do you love chocolates?"));
  
 ##Authors
-Aditya Joshi (aditya.m.joshi@gmail.com)
-Anoop Kunchukuttan (anoop.kunchukuttan@gmail.com)
+
+- Aditya Joshi (aditya.m.joshi@gmail.com)
+- Anoop Kunchukuttan (anoop.kunchukuttan@gmail.com)
 
 ##Version: 0.2
 
