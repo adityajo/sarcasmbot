@@ -22,8 +22,8 @@ The sentiwordlist can be downloaded from: http://www.cs.uic.edu/~liub/FBS/opinio
 
 ##Sample Java Snippet
 
->sarcasticChatter sc = new sarcasticChatter(postagger, sentiwordlist);
->System.out.println(sc.chat("Do you love chocolates?"));
+ sarcasticChatter sc = new sarcasticChatter(postagger, sentiwordlist);
+ System.out.println(sc.chat("Do you love chocolates?"));
  
 ##Authors
 Aditya Joshi (aditya.m.joshi@gmail.com)
