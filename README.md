@@ -8,7 +8,7 @@ Aditya Joshi, Anoop Kunchukuttan, Pushpak Bhattacharyya, Mark J Carman. _Sarcasm
 
 The license file has also been included. 
 
-##Usage
+## Usage
 The included code is a java project. The code can be used as follows:
 
 1. Download sentiwordlist.
@@ -20,23 +20,23 @@ The included code is a java project. The code can be used as follows:
 
 The sentiwordlist can be downloaded from: http://www.cs.uic.edu/~liub/FBS/opinion-lexicon-English.rar
 
-##Sample Java Snippet
+## Sample Java Snippet
 
 > sarcasticChatter sc = new sarcasticChatter(postagger, sentiwordlist);
 
 > System.out.println(sc.chat("Do you love chocolates?"));
  
-##Authors
+## Authors
 
 - Aditya Joshi (aditya.m.joshi@gmail.com)
 - Anoop Kunchukuttan (anoop.kunchukuttan@gmail.com)
 
-##Version: 0.2
+## Version: 0.2
 
-##Revision Log
+## Revision Log
 10th August 2015: First version uploaded
 
-##LICENSE
+## LICENSE
 
 Copyright Aditya Joshi 2015 - present
  
